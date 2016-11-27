@@ -1,2 +1,2 @@
-gitk work
-**daemon
+gitk
+daemon
